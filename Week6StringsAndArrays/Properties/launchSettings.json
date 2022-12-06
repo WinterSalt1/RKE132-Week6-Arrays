@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Week6StringsAndArrays": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
